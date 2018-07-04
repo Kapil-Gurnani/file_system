@@ -1,0 +1,22 @@
+{
+  "name": "assignment_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv": "^3.1.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "validator": "^10.4.0",
+    "yargs": "^12.0.1"
+  },
+  "dependencies": {
+    "event-stream": "^3.3.4",
+    "random-number": "0.0.9"
+  }
+}
